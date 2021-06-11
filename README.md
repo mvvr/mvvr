@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m Maddula Vishnu Vardhan Reddy
+- # 👋                 Hi, I’m Maddula Vishnu Vardhan Reddy
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Robotic Process Automation
 - 🌱 I’m currently learning my interests which I was mentioned 
 - 💞️ I’m looking to collaborate on any work regrarding my interests
