@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning my interests which I was mentioned 
 - 💞️ I’m looking to collaborate on any work regrarding my interests
 - 📫 How to reach me vishnu.maddula2001@gmail.com
-
+## Contact : 
+  [Linkedin](https://www.linkedin.com/in/vishnu-vardhan-reddy-maddula/)
+  
+  [Twitter](https://twitter.com/vikkymvvr)
+  
+  [Instagram](https://www.instagram.com/vikkymvvr/)
 
 <!---
 mvvr/mvvr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
