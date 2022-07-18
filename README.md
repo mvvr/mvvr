@@ -1,7 +1,7 @@
 - # 👋                 Hi, I’m Maddula Vishnu Vardhan Reddy
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing and Robotic Process Automation 
-- 💞️ I’m looking to collaborate on any work regarding my interests
-- 📫 How to reach me vishnu.maddula2001@gmail.com
+- Call me Vikky(vicky)
+- Available for any works on Machine Learning, Computer Vision and Nothing!.... 😎✌
+- Waiting for your message on Instagram @vikkymvvr   ✔✔✔✔
 ## Contact : 
   [Linkedin](https://www.linkedin.com/in/vishnu-vardhan-reddy-maddula/)
   
